@@ -1,0 +1,17 @@
+{
+  "name": "api-shopping",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico sobre API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Esther Evelyn Alves Oliveira, Natalia Costa Moura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
